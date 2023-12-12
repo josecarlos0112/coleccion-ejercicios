@@ -22,7 +22,7 @@ int main() {
     Estudiante estudiante1("Jose", 20, 95.5);
     estudiante1.imprimir();
 
-    estudiante1.modificarEdad(30);
+    estudiante1.modificarEdad(40);
     estudiante1.imprimir();
 
     return 0;
